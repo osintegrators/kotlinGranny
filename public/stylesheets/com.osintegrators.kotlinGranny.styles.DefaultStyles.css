@@ -1,0 +1,17 @@
+body {
+    background-color: #f0f0f0;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h1 {
+    margin-left: 1.0em;
+}
+#main {
+    border-radius: 5.0px;
+    width: 85.0%;
+    border-style: solid;
+    background-color: #fff;
+    border-color: #ccc;
+    margin: 0.0px auto 0.0px auto;
+    border-width: 1.0px;
+    padding: 1.0em 1.0em 1.0em 1.0em;
+}

@@ -1,0 +1,9 @@
+
+{
+     "kara": {
+         "appPackage": "com.osintegrators.kotlinGranny",
+         "publicDir": "public",
+         "stylesheetDir": "stylesheets",
+         "sessionDir": "tmp/sessions"
+     }
+}

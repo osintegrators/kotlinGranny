@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0">
+    <info organisation="com.osintegrators.kotlinGranny" module="kotlinGranny"/>
+    <dependencies>
+        <dependency org="org.jumpmind.symmetric.jdbc" name="postgresql" rev="9.2-1002-jdbc4"/>
+    </dependencies>
+</ivy-module>
