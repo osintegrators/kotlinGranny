@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KaraLib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/kara-30/modules/core/KaraLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
